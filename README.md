@@ -44,11 +44,11 @@ The following demonstrates general application functionality:
 
 ## Application
 
-[Deployed Site](https://rocky-stream-45210.herokuapp.com/)
+[Deployed Site](https://still-citadel-22646.herokuapp.com/)
 
 ## Repository
 
-[Github Repository](https://github.com/pallavinama/Project3-Playlists-of-Legends)
+[Github Repository](https://github.com/AlanAshworth/Project3-Playlists-of-Legends)
 
 ## License
 
